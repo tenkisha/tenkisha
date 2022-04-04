@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tenkisha
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning js at SoftUni
